@@ -1,9 +1,7 @@
 # 👋  Hi! 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,gatsby,tailwind,git,cloudflare,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,gatsby,tailwind,git,cloudflare,vscode" />
 </p>
 
 I'm Peter Hicks, and I am a Technical Lead to the lovely people at 
