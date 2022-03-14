@@ -1,5 +1,11 @@
 # 👋  Hi! 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,gatsby,tailwind,git,cloudflare,vscode" />
+  </a>
+</p>
+
 I'm Peter Hicks, and I am a Technical Lead to the lovely people at 
 [Space 48](https://www.space48.com/). I spend my  days looking after BigCommerce 
 and Shopify projects for some [fantastic clients](https://www.space48.com/work/).
